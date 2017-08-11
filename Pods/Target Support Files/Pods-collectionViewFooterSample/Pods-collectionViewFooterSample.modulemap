@@ -1,0 +1,6 @@
+framework module Pods_collectionViewFooterSample {
+  umbrella header "Pods-collectionViewFooterSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
